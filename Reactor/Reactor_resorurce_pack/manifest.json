@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "for Reactor 1.4.5b map only if use a another map will not work by Secondyou",
+    "name": "Reactor",
+    "uuid": "f5f6059b-aac2-40ac-a1b9-b3db3701ad98",
+    "version": [
+      1,
+      8,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "for Reactor 1.4.5b map only if use a another map will not work by Secondyou",
+      "type": "resources",
+      "uuid": "f3ebb1c8-118a-4b22-9ed7-f781cfddccb6",
+      "version": [
+        1,
+        8,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Reactor:blast_Restant_glass": {
+    "textures": "Reactor_blast_Restant_glass",
+    "sound": "glass"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}
